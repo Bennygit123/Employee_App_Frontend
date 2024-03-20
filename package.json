@@ -39,4 +39,12 @@
       "last 1 safari version"
     ]
   }
+  {
+    "homepage": "https://username.github.io/repository-name",
+    "scripts": {
+      "deploy": "gh-pages -d build"
+    }
+  }
+  
 }
+
